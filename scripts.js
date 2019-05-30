@@ -6,6 +6,7 @@ function identifier() {
   if(side1 === side2 && side1 === side3 && side2 === side3){
     console.log("Your values make an equilateral triangle. All sides equal;");
   }
+else if(side1 === side2 || side1 === side3 || side2 === side3){
+  console.log("Your values give an isosceless triangle. Two sides equal;")
 
-}
 }
