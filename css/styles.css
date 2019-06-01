@@ -19,7 +19,7 @@ body {
 }
 
 .p {
-  font-size: 25px;
+  font-size: 30px;
   font-style: italic;
   font-family: 'East Sea Dokdo', cursive;
 }
@@ -34,5 +34,7 @@ h3 {
 }
 
 h2 {
-  text-decoration: underline;
+  text-decoration:underline;
+  text-decoration-style: dotted: underline;
+  text-align: center;
 }
