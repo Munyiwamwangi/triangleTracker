@@ -11,3 +11,17 @@
 body {
   background-color: lightgrey;
 }
+.card-body{
+  padding-left: 30% !important;
+}
+p{
+  font-size: 25px;
+  font-style: italic;
+  font-family: 'East Sea Dokdo', cursive;
+}
+h3{
+  font-family: 'East Sea Dokdo', cursive;
+}
+h2 {
+  text-decoration: underline;
+}
