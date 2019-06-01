@@ -2,26 +2,32 @@
 *******************************/
 @import url("bootstrap.css");
 @import url("fonts.css");
+
 /*******GENERAL STUFF**********
 ******************************/
 .head {
-   text-align:center;
-   text-style:oblique;
+  text-align: center;
+  text-style: oblique;
 }
+
 body {
   background-color: lightgrey;
 }
-.card-body{
+
+.card-body {
   padding-left: 30% !important;
 }
-p{
+
+.p {
   font-size: 25px;
   font-style: italic;
   font-family: 'East Sea Dokdo', cursive;
 }
-h3{
+
+h3 {
   font-family: 'East Sea Dokdo', cursive;
 }
+
 h2 {
   text-decoration: underline;
 }
