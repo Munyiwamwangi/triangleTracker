@@ -12,6 +12,7 @@
 
 body {
   background-color: lightgrey;
+  overflow-y: hidden;
 }
 
 .card-body {
@@ -37,4 +38,7 @@ h2 {
   text-decoration:underline;
   text-decoration-style: dotted: underline;
   text-align: center;
+}
+.cp {
+  margin-top: 4%;
 }
