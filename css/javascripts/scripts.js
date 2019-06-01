@@ -16,6 +16,6 @@ function identifier() {
       alert("Your values give an scalene triangle. all sides not equal;");
     }
   } else {
-    alert("Note that All Values must be greater than zero;");
+    alert("Ensure all spaces are filled and// NOTE:  All Values must be greater than zero;");
   }
 }
