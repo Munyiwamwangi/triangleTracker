@@ -4,3 +4,10 @@
 @import url("fonts.css");
 /*******GENERAL STUFF**********
 ******************************/
+.head {
+   text-align:center;
+   text-style:oblique;
+}
+body {
+  background-color: lightgrey;
+}
